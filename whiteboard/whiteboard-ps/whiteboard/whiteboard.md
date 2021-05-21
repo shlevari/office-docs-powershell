@@ -19,3 +19,6 @@ The following cmdlet references are for Microsoft Whiteboard. See [Overview](htt
 
 ### [Invoke-TransferAllWhiteboard](Invoke-TransferAllWhiteboards.md)
 {{Manually Enter Invoke-TransferAllWhiteboards Description Here}}
+
+### [Get-WhiteboardOwners](Get-WhiteboardOwners.md)
+{{Manually Enter Get-WhiteboardOwners Description Here}}
